@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 TEMPERATURE = 0.5
 MAX_TOKENS = 800
 
-TOTAL_QUESTIONS = 5
+TOTAL_QUESTIONS = 20
 
 def main():
     configure_openai()
